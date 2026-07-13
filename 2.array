@@ -1,0 +1,7 @@
+import numpy as np
+Array2d=np.array([[1,2,3],[4,5,6],[7,8,9]])
+print(Array2d)
+mean=np.mean(Array2d)
+print(mean)
+print(Array2d.data)
+print(Array2d.shape)

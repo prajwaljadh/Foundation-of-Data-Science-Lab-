@@ -1,0 +1,6 @@
+import numpy as np
+Array3d=np.array([[[1,2,3],[4,5,6],[7,8,9]]])
+print(Array3d)
+print(Array3d.data)
+print(Array3d.dtype)
+print(Array3d.strides)

@@ -1,0 +1,11 @@
+import numpy as np
+Array=np.array([1,2,3,4,5])
+print(Array)
+mean=np.mean(Array)
+print(mean)
+shape=np.shape(Array)
+print(shape)
+max=np.max(Array)
+print(max)
+min=np.min(Array)
+print(min)
